@@ -35,7 +35,7 @@ This is a Universitry project done for the subject "_Programming in C#_". It's a
 
 ## Database Model
 ---
-TBA
+![](Database_Model.png)
 
 ## Technologies & languages
 
